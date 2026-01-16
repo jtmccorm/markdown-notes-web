@@ -78,6 +78,9 @@ If you want to easily get future updates to this project, fork this project into
 
 5. Hit deploy
 
+# Jtmccorm notes
+a simple test
+
 If there are no errors, once the deployment is done, you should be able to go to dashboard > markdown-notes-web and find a url for your page.
 
 It will ask you a username and password, which you set above in the ENV variables
